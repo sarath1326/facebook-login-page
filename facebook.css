@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+
+.heder{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(6, 6, 177);
+}
+.hederleft{
+    width: 50%;
+    font-size: 27px;
+    color: aliceblue;
+    padding-left: 69px;
+    padding-top: 31px;
+    float: left;
+    
+
+    
+    
+    
+}
+.hederright{
+    
+    width: 50%;
+    padding-left:531px;
+    
+}
+.logintext{
+    color: aliceblue;
+}
+.loginbutten{
+    background-color: blue;
+    color: aliceblue;
+
+}
+.condent{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(218, 213, 213);
+}
+.condentleft{
+    width: 50%;
+    float: left;
+    margin-top: -15px;
+}
+.condentright{
+    width: 50%;
+    float: left;
+    margin-top: -317px;
+    margin-left: 729px;
+    font-size: 26px;
+    
+}
+.photo{
+    width: 560px;
+}
+.dobfont{
+    font-size: 20px;
+}
+.genderfont{
+    font-size: 15px;
+}
+ .submit{
+    background-color: green;
+    color: aliceblue;
+ }
+ .form{
+    font-size: 15px;
+ }
+ .mob{
+    width: 200px;
+ }
